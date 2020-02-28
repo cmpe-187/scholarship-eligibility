@@ -1,7 +1,11 @@
 """
-This file demonstrates common uses for the Python unittest module
-https://docs.python.org/3/library/unittest.html
+This module runs tests on students in regards to scholarship eligibility.
 """
+
+__author__ = "Zelin Cai, Patrick Silvestre"
+__version__ = "0.1.0"
+__license__ = "MIT"
+
 import unittest
 import student as student_class
 import scholarship_eligibility
